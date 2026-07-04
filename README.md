@@ -15,7 +15,6 @@ Puanlama mantığı; görev zorluğu, zaman gereksinimi ve geliştirme süresi d
 
 Proje sürecinde takım arkadaşlarıma ulaşamadığım için daily scrum sürecini bireysel ilerleme notları şeklinde yürüttüm. Her gün ne yaptığımı, yarın ne yapacağımı ve karşılaştığım engelleri kısa şekilde not aldım.
 
-Ekran görüntüsü: Günlük toplantı ekranı
 
 ## Ürün Geliştirme Durumunun Ekran Görüntüsü
 
