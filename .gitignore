@@ -1,0 +1,21 @@
+# Sanal Ortamlar (Bozuk karakterler temizlendi, backend eklendi)
+backend/.venv/
+backend/venv/
+.venv/
+venv/
+
+# Python Derleme Dosyaları
+backend/__pycache__/
+__pycache__/
+*.pyc
+*.py[cod]
+
+# Frontend ve Bağımlılıklar
+node_modules/
+dist/
+
+# Proje Özel ve Geçici Dosyalar
+uploads/
+*.log
+.env
+.DS_Store
