@@ -12,6 +12,7 @@ Fırat Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Yapay 
 
 
 Teknofest Ayata Roket Takımı’nda ve TÜBİTAK 2209-B kapsamında yürütülen yapay zeka destekli İHA projesinde aktif olarak rol almaktayım. Ayrıca ÜNİDES kapsamında köy okullarında gerçekleştirilen gönüllülük projelerine katılıyorum.
+Linkedln: https://www.linkedin.com/in/nilay-sema-t-207198326/
 
 
 
