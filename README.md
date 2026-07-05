@@ -12,6 +12,7 @@ Fırat Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Yapay 
 
 
 Teknofest Ayata Roket Takımı’nda ve TÜBİTAK 2209-B kapsamında yürütülen yapay zeka destekli İHA projesinde aktif olarak rol almaktayım. Ayrıca ÜNİDES kapsamında köy okullarında gerçekleştirilen gönüllülük projelerine katılıyorum.
+
 Linkedln: https://www.linkedin.com/in/nilay-sema-t-207198326/
 
 
@@ -43,7 +44,8 @@ Daily scrum sürecini bireysel ilerleme notları şeklinde yürüttüm. Her gün
 
 Uygulamanın temel akışı artık çalışır durumda. Backend ve frontend entegrasyonu sağlandı; ses analizi ve kullanıcı arayüzü geliştirme süreci devam ediyor.
 
-Ekran görüntüsü: <img width="1035" height="769" alt="baglamaapp" src="https://github.com/user-attachments/assets/e66f87df-3186-460a-9335-20b8df09cc32" />
+Ekran görüntüsü: <img width="915" height="769" alt="baglamaapp" src="https://github.com/user-attachments/assets/c0ef0014-ef65-4dbd-a396-00f932767410" />
+
 <img width="931" height="775" alt="baglamaapp2" src="https://github.com/user-attachments/assets/8af49696-8238-4482-bda3-64e2ba4f973a" />
 
 
