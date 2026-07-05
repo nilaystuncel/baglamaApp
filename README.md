@@ -26,8 +26,7 @@ Ses analizi sonucunda kullanıcının hangi notaları yanlış bastığını tes
 
 Projenin backlog takibini kendi kendime Notion üzerinden yürüttüm. Proje sürecinde takım arkadaşlarıma ulaşamadığım için görev planlamasını, öncelikli işleri, geliştirme adımlarını ve ilerleme durumunu tek başıma düzenleyerek takip ettim.
 
-Link: https://app.notion.com/p/393a0ae7b79d8021a532e99d4e769ec1?v=393a0ae7b79d80a19faf000cc91b279f&source=copy_link
-
+Link: https://app.notion.com/p/Ba-lama-renme-Uygulamas-Proje-Takip-Sayfas-394a0ae7b79d80b5bb27da7eeee92ed8?source=copy_link
 ## Sprint Puanlaması
 
 Bu sprintte toplam 30 görev planladım. Her bir görev için 10 puan belirleyerek toplam 300 puanlık bir sprint hedefi oluşturdum. Bu sprintte yaklaşık 24 görev tamamladım.
