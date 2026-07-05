@@ -36,7 +36,7 @@ Puanlama mantığı; görev zorluğu, zaman gereksinimi ve geliştirme süresi d
 
 ## Daily Scrum
 
-Proje sürecinde takım arkadaşlarıma ulaşamadığım için daily scrum sürecini bireysel ilerleme notları şeklinde yürüttüm. Her gün ne yaptığımı, yarın ne yapacağımı ve karşılaştığım engelleri kısa şekilde not aldım.
+Daily scrum sürecini bireysel ilerleme notları şeklinde yürüttüm. Her gün ne yaptığımı, yarın ne yapacağımı ve karşılaştığım engelleri kısa şekilde not aldım.
 
 
 ## Ürün Geliştirme Durumunun Ekran Görüntüsü
@@ -47,10 +47,10 @@ Ekran görüntüsü:
 
 ## Sprint Review
 
-Bu sprintte proje kurulumu tamamlandı, temel backend ve frontend yapısı oluşturuldu. Takım arkadaşlarıma ulaşamadığım için geliştirme sürecini bireysel olarak yürüttüm. Ses analizi akışı için ilk MVP adımları atıldı. Gelecek sprintte kullanıcı deneyimini iyileştirme ve analiz performansını artırma üzerine odaklanacağım.
+Bu sprintte proje kurulumu tamamlandı, temel backend ve frontend yapısı oluşturuldu. Geliştirme sürecini bireysel olarak yürüttüm. Ses analizi akışı için ilk MVP adımları atıldı. Gelecek sprintte kullanıcı deneyimini iyileştirme ve analiz performansını artırma üzerine odaklanacağım.
 
 ## Sprint Retrospective
 
-Gelecek sprintte görevleri daha küçük parçalara bölerek daha düzenli ilerlemek istiyorum. Proje sürecinde takım arkadaşlarıma ulaşamadığım için planlama, geliştirme ve takip süreçlerini tek başıma yürüttüm. Bu durum iş yükünü artırdığı için sonraki süreçte görev dağılımını daha netleştirmek ve iletişim problemlerini erken aşamada çözmek öncelikli hedeflerimden biri olacak.
+Gelecek sprintte görevleri daha küçük parçalara bölerek daha düzenli ilerlemek istiyorum. Planlama, geliştirme ve takip süreçlerini tek başıma yürüttüm. Bu durum iş yükünü artırdığı için sonraki süreçte görev dağılımını daha netleştirmek ve iletişim problemlerini erken aşamada çözmek öncelikli hedeflerimden biri olacak.
 
 Test süreçlerini daha erken başlatmak, hata yönetimini daha sistemli hale getirmek ve dokümantasyonu güçlendirmek öncelikli hedeflerim olacak. Yeni planım; daha sık mini review yapmak, daha net görev tanımları oluşturmak ve UI ile analiz geliştirme adımlarını paralel yürütmektir.
