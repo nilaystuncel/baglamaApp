@@ -1,4 +1,27 @@
 ﻿# baglamaApp
+ ## Ekip Üyeleri Hakkında
+
+
+
+### Nilay Sema Tuncel
+
+
+
+Fırat Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Yapay zeka, veri bilimi ve gömülü sistemler alanlarına ilgi duymaktayım.
+
+
+
+Teknofest Ayata Roket Takımı’nda ve TÜBİTAK 2209-B kapsamında yürütülen yapay zeka destekli İHA projesinde aktif olarak rol almaktayım. Ayrıca ÜNİDES kapsamında köy okullarında gerçekleştirilen gönüllülük projelerine katılıyorum.
+
+
+
+Bu proje sürecinde takım arkadaşlarıma ulaşamadığım için görev dağılımı, backlog yönetimi, sprint planlaması, ürün geliştirme ve readme dokümantasyonu gibi adımları bireysel olarak tamamladım. 
+## Ürün Özeti
+
+Bu uygulama, kullanıcıların bağlama çalmayı öğrenmesini desteklemek amacıyla hayata geçirilmiştir. Uygulama, kullanıcının bir türkü seçmesiyle başlar. Kullanıcı bağlama çalmaya başladığında sistem ses verilerini alır ve bu veriler üzerinden analiz yapar.
+
+Ses analizi sonucunda kullanıcının hangi notaları yanlış bastığını tespit ederek kullanıcıya geri bildirim vermeyi hedefler. Böylece kullanıcı, çalma sürecindeki hatalarını daha kolay fark edebilir ve bağlama öğrenme sürecini daha verimli hale getirebilir.
+
 ## Product Backlog
 
 Projenin backlog takibini kendi kendime Notion üzerinden yürüttüm. Proje sürecinde takım arkadaşlarıma ulaşamadığım için görev planlamasını, öncelikli işleri, geliştirme adımlarını ve ilerleme durumunu tek başıma düzenleyerek takip ettim.
