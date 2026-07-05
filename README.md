@@ -43,7 +43,8 @@ Daily scrum sürecini bireysel ilerleme notları şeklinde yürüttüm. Her gün
 
 Uygulamanın temel akışı artık çalışır durumda. Backend ve frontend entegrasyonu sağlandı; ses analizi ve kullanıcı arayüzü geliştirme süreci devam ediyor.
 
-Ekran görüntüsü: 
+Ekran görüntüsü: <img width="1600" height="855" alt="baglamaapp" src="https://github.com/user-attachments/assets/33b59e08-9cd6-4058-95c7-6fb830f694f0" />
+
 
 ## Sprint Review
 
