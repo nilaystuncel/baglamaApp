@@ -38,6 +38,8 @@ Puanlama mantığı; görev zorluğu, zaman gereksinimi ve geliştirme süresi d
 ## Daily Scrum
 
 Daily scrum sürecini bireysel ilerleme notları şeklinde yürüttüm. Her gün ne yaptığımı, yarın ne yapacağımı ve karşılaştığım engelleri kısa şekilde not aldım.
+<img width="1448" height="1086" alt="sprint borad" src="https://github.com/user-attachments/assets/8d64f911-6f76-4ba4-bf48-b437997dd9ba" />
+
 
 
 ## Ürün Geliştirme Durumunun Ekran Görüntüsü
